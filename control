@@ -1,0 +1,9 @@
+Package: com.rbaronescu.httpstreamdaemon
+Name: HTTPStreamDaemon
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Daemon to stream from a web radio. To use togheter with Music Assitant.
+Maintainer: Robert Baronescu
+Author: Robert Baronescu
+Section: Terminal Support
